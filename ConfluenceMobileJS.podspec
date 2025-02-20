@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'ConfluenceMobileJS'
-s.version = '1.1.1'
+s.version = '0.0.1'
   s.summary          = 'Test'
   s.description      = 'A test cocoapod'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
